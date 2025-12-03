@@ -10,7 +10,7 @@
 body {
     background: #f4f4f4;
     color: #222;
-    background-image: url("/images/luxury-home.jpg");
+    background-image: url("../images/luxury-home.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
